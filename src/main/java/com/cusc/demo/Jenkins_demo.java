@@ -7,5 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Jenkins_demo {
     public static void main(String[] args) {
         SpringApplication.run(Jenkins_demo.class,args);
+        system.out("for tests")
     }
 }
